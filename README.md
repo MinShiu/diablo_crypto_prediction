@@ -1,2 +1,2 @@
-# diablo_crypto_prediction
+# Price modelling for DIABLO
 Price predicting model for diablo (DIABL)
